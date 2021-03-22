@@ -1,0 +1,11 @@
+Hello World.
+
+My name is %NAME% and my nick name is %NICK-NAME%.
+How are you?
+
+This is a template called '%TEMPLATE-NAME%'.
+
+The template is used to separate the text from the code,
+make the text easier to understand.
+
+With love, %NICK-NAME%.
